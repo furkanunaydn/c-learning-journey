@@ -1,18 +1,22 @@
-# C-learning-journey
-Merhaba Ben Taha Furkan Ünaydın , Afyon Kocatepe Üniversitesinde Mekatronik mühendisliği öğrencisiyim.
+# C Öğrenme Yolculuğum
 
-Kullandığım kaynak: **Can Boz - 100+ Saatlik C Programlama Kursu** (Udemy)
+Merhaba! Ben **Taha Furkan Ünaydın**, **Afyon Kocatepe Üniversitesi** Mekatronik Mühendisliği öğrencisiyim.
 
-Her egzersizde şu adımları izliyorum:
-1. Problemi kendim çözmeye çalışıyorum
-2. Kendi kodumu yazıp test ediyorum
-3. Eğitmenin çözümüyle karşılaştırıp farkları not alıyorum
+Bu depo, C programlama öğrenme sürecim boyunca çözdüğüm egzersizleri, geliştirdiğim projeleri ve aldığım notları içermektedir.
 
-## İçerik
+---
 
--  String
--  Fonksiyon
--  Pointer
--  Struct
--  Dosya İşlemleri
--  Dinamik Bellek
+## Kullandığım Kaynak
+
+- **Can Boz – 100+ Saatlik C Programlama Kursu (Udemy)**
+
+---
+
+## Çalışma Sürecim
+
+Her egzersizde şu adımları takip ediyorum:
+
+1. Problemi önce kendim çözmeye çalışıyorum.
+2. Kendi çözümümü yazıp test ediyorum.
+3. Eğitmenin çözümüyle karşılaştırıyorum.
+4. Gerekirse kodumu geliştiriyorum.
