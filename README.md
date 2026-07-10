@@ -1,4 +1,4 @@
-# C Öğrenme Yolculuğum
+
 
 Merhaba! Ben **Taha Furkan Ünaydın**, **Afyon Kocatepe Üniversitesi** Mekatronik Mühendisliği öğrencisiyim.
 
