@@ -58,4 +58,7 @@ Denemeler.c
 .vscode/tasks.json
 300.c
 302.c
+ucgen_bicimi_bellek.c
+iki_dizi_birlestirme_bellek.c
+cumle_tersten_bellek.c
 
